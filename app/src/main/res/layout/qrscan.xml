@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_scan"
+    tools:context="com.example.user.fitprover1.QRscan"
+    tools:layout_editor_absoluteY="25dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="190dp"
+        android:layout_height="28dp"
+        android:layout_marginBottom="448dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginTop="35dp"
+        android:text="Press SCAN Button"
+        android:textColor="#ffffff"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/scan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.057" />
+
+
+    <Button
+        android:id="@+id/scan"
+        android:layout_width="185dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="3dp"
+        android:layout_marginEnd="80dp"
+        android:background="#ffffff"
+        android:text="SCAN"
+        android:textColor="#ff0000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="230dp"
+        android:layout_height="208dp"
+        android:layout_marginBottom="63dp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginTop="75dp"
+        android:src="@drawable/scan3"
+        app:layout_constraintBottom_toTopOf="@+id/scan"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

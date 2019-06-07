@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "50956597948",
+    "firebase_url": "https://fitting-room-8c5e7.firebaseio.com",
+    "project_id": "fitting-room-8c5e7",
+    "storage_bucket": "fitting-room-8c5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50956597948:android:72efea2c90e604fd",
+        "android_client_info": {
+          "package_name": "com.example.user.fittingroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50956597948-2cmi11sjs2si9qakittkv37mb5vnrmgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fittingroom",
+            "certificate_hash": "9521c4da540c46dd2f134c58040089d7edf3fc98"
+          }
+        },
+        {
+          "client_id": "50956597948-4g9c2rlducmf4ghrjopna366fp5utqtc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fittingroom",
+            "certificate_hash": "09ac0e801f38cf0f2ae290d7fa6332bbac48c126"
+          }
+        },
+        {
+          "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKOI18LY3D1guwNzh8qX4isqoZb6M0Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50956597948:android:9124f48b327ef3e3",
+        "android_client_info": {
+          "package_name": "com.example.user.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50956597948-4hq3hnjbknep30iqvh8jlenscj82g029.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.sample",
+            "certificate_hash": "09ac0e801f38cf0f2ae290d7fa6332bbac48c126"
+          }
+        },
+        {
+          "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKOI18LY3D1guwNzh8qX4isqoZb6M0Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50956597948:android:8aa133071d4826c9",
+        "android_client_info": {
+          "package_name": "com.example.user.fitpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50956597948-d2qlh52qe0vksa4clf4q122bs3fnimpr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fitpro",
+            "certificate_hash": "09ac0e801f38cf0f2ae290d7fa6332bbac48c126"
+          }
+        },
+        {
+          "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKOI18LY3D1guwNzh8qX4isqoZb6M0Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50956597948:android:7f241ee6b27bb1c7",
+        "android_client_info": {
+          "package_name": "com.example.user.fitprover1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50956597948-asat69mp4nbi708vlqmkphmhlqqrjq1r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.fitprover1",
+            "certificate_hash": "09ac0e801f38cf0f2ae290d7fa6332bbac48c126"
+          }
+        },
+        {
+          "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuKOI18LY3D1guwNzh8qX4isqoZb6M0Fo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50956597948-kf2cjjns5b1l3dad2cssdgvvmeatjgfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
